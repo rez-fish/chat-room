@@ -1,6 +1,9 @@
 # chat-room
 
 https://chat-room-17560.firebaseapp.com/
+
+I created a live updated chat room using Vue js. I used firabase for the DB. I chose it because it is fairly simple to set up live updating. 
+
 Link
 
 ## Project setup
